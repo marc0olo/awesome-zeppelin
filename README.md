@@ -5,6 +5,13 @@
 
 > Blockchain educational resources curated by the Zeppelin team.
 
+[Zeppelin](https://zeppelin.solutions) builds key infrastructure to develop and operate smart contract systems. We work on:
+* [OpenZeppelin](https://openzeppelin.org/): a package for secure smart contract development. 
+* [ZeppelinOS](https://zeppelinos.org/): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
+* [Audits](https://zeppelin.solutions/security-audits/): verification of key projects for the decentralized ecosystem.
+
+This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the Zeppelin team, [we are hiring!](https://zeppelin.solutions/jobs/).
+
 ## Table of Contents
 
 * [Bitcoin](#bitcoin)
@@ -17,11 +24,13 @@
 * [Ethereum](#ethereum)
 * [Legal](#legal)
 * [Linux](#linux)
+* [Organizations](#organizations)
 * [Programming Languages](#programming-languages)
   * [Go](#go)
   * [Javascript](#javascript)
   * [Python](#python)
   * [Solidity](#solidity)
+  * [Typescript](#typescript)
 * [Remote](#remote)
 * [Security](#security)
 * [Software Development](#software-development)
@@ -68,6 +77,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Governance in 0x Protocol](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e), by Will Warren.
 
+* [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/), by Donella Meadows.
+
 * [On Medium-of-Exchange Token Valuations](https://vitalik.ca/general/2017/10/17/moe.html), by Vitalik Buterin.
 
 * [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f), by Alex Evans.
@@ -87,6 +98,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Talks
 
 * [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo), by Vitalik Buterin.
+
+* [The Pretence of Knowledge](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/), by Friedrich von Hayek.
 
 ### Whitepapers
 
@@ -120,22 +133,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
-## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-
-(see also [Solidity](#solidity)).
-
-### Books
-
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
-
-### Posts
-
-* [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
-
-* [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
-
-* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
-
 ## Design
 
 ### Books
@@ -164,6 +161,26 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/), by Coraline Ada Ehmke.
 
+## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+(see also [Solidity](#solidity)).
+
+### Books
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
+
+### Posts
+
+* [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
+
+* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
+
+* [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4), by Josh Stark.
+
+* [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5), by Haseeb Qureshi.
+
+* [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
+
 ## Legal
 
 ### Courses
@@ -179,6 +196,20 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Courses
 
 * [Introduction to Linux](https://www.edx.org/course/introduction-to-linux), by The Linux Foundation.
+
+## Organizations
+
+Talk about this topic with [Demi](https://twitter.com/demibrener).
+
+### Books
+
+* [The Sovereign Individual](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual), by  James Dale Davidson and William Rees-Mogg.
+
+### Talks
+
+* [The Network State](https://www.youtube.com/watch?v=KiLUPvUsdXg), by Balaji Srinivasan.
+
+* [Voice vs. Exit](https://www.youtube.com/watch?v=cOubCHLXT6A), by Balaji Srinivasan.
 
 ## Programming Languages
 
@@ -210,25 +241,37 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
 
-* [Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Zeppelin.
-
 #### Challenges / CTF
 
-* [Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin.
+* **[Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin**.
 
 * [Blockchain CTF](https://blockchain-ctf.securityinnovation.com), by Security Innovation.
 
 * [GOAT Casino](https://github.com/nccgroup/GOATCasino), by NCC Group.
 
+#### Posts
+
+* **[Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Alejandro Santander from the Zeppelin team**.
+
 #### Smart contract security
+
+* **[Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin**.
 
 * [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
 
+* [Smart Contract Weakness Classification Registry](https://smartcontractsecurity.github.io/SWC-registry/), maintained by the [Mythril](https://mythril.ai/) team.
+
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
+
+* [List of Risks and Vulnerabilities in ERC20 Token contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list.md), by Secbit
 
 * [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
 
-* [Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin.
+### Typescript
+
+#### Courses
+
+* [Understanding TypeScript](https://www.udemy.com/understanding-typescript/), by Maximilian Schwarzmüller.
 
 ## Remote
 
@@ -292,4 +335,3 @@ Talk about this topic with [elopio](https://github.com/elopio).
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Zeppelin](https://zeppelin.solutions) has waived all copyright and related or neighboring rights to this work.
-
